@@ -1,0 +1,57 @@
+.menu
+{
+    
+    padding: 2.14286rem 0.71429rem;
+    
+    color: #43525A;
+    font-size: 1rem;
+    
+    background-color: #f1f3f2;
+}
+
+.centrar
+{
+    text-align: center;
+
+}
+
+.menuizq
+{
+    padding-left: 150px;
+}
+
+a
+{
+    color: #4a5358;
+}
+
+.banner
+{
+    width: 100%;
+}
+
+.fondo
+{
+    background-color: #eeeeec;
+}
+
+.fndimg
+{
+    background-image: url("/imagenes/hero-new-desk--cut.png")
+}
+
+.txtban
+{
+    padding: 20% 5% 8% 5%;
+}
+
+.bordeder
+{
+    border-right: 1px solid black;
+}
+
+.confyou
+{
+    border-bottom: 0.14286rem solid #28A5BE;
+    font-weight: 500;
+}
